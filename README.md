@@ -1,4 +1,6 @@
-# Java OOP Projects 🚀
+# Java OOP Practice Mini-Projects 🚀
+
+I'm still learning and improving — this is part of my practice journey.
 
 This repository contains my collection of mini-projects built using Java to practice Object-Oriented Programming (OOP) principles such as:
 
