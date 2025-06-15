@@ -25,7 +25,7 @@ This repository contains my collection of mini-projects built using Java to prac
 ## Tools Used
 - Java (JDK)
 -  **IDE**: IntelliJ IDEA Community Edition
-- Command-line interface (CLI)
+- Console-based
 
 ## How to Run
 - Compile with `javac Main.java`
